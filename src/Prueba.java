@@ -3,6 +3,7 @@ public class Prueba {
 
 	private int m;
 	private int n;
+	private int o;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Polinomio p1 = new Polinomio(5);
