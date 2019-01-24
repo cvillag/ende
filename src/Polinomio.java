@@ -6,6 +6,7 @@ public class Polinomio {
 	private int x;
 	private int z;
 	private int a;
+	private int c;
 	public Polinomio() {
 		super();
 		polinomio = new ArrayList<Integer>();
