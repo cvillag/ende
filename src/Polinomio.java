@@ -8,11 +8,8 @@ public class Polinomio {
 	private int a;
 	private int b;
 	private int c;
-<<<<<<< HEAD
 	private int d;
-=======
 	private int e;
->>>>>>> e23b36d66a025806c0042586a2549d6cab35b1c7
 	public Polinomio() {
 		super();
 		polinomio = new ArrayList<Integer>();
