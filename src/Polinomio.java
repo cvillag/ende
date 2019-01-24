@@ -12,6 +12,7 @@ public class Polinomio {
 	private int e;
 	private int f;
 	private int g;
+	private int h;
 	public Polinomio() {
 		super();
 		polinomio = new ArrayList<Integer>();
