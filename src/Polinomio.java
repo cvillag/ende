@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Polinomio {
 	
 	private ArrayList<Integer> polinomio;
-	
+	private int x;
 	public Polinomio() {
 		super();
 		polinomio = new ArrayList<Integer>();
