@@ -1,6 +1,7 @@
 
 public class Prueba {
 
+	private int m;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Polinomio p1 = new Polinomio(5);
