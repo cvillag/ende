@@ -6,17 +6,17 @@ public class Polinomio {
 	private int x;
 	private int z;
 	private int a;
-	private int b;
+	protected int b;
 	private int c;
 	private int d;
 	private int e;
 	private int f;
-	private int g;
 	private int h;
 	private int i;
 	private int j;
 	private int k;
 	private int l;
+	private int w;
 	public Polinomio() {
 		super();
 		polinomio = new ArrayList<Integer>();
